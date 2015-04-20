@@ -1,0 +1,27 @@
+2015-04-20 17:23:51,093 ERROR [Worker-0] - System.err - 17:23:51,076 F: (BackendActivator.java:19) : Backend plugin starting
+2015-04-20 17:23:51,112 ERROR [Worker-0] - System.err - 17:23:51,112 F: (ErlangPlugin.java:73) : Core starting
+2015-04-20 17:23:51,150 ERROR [Worker-0] - System.err - 17:23:51,150 I: (ErlangCore.java:58) : Erlide log is in /home/guptanitin/workspace_p/practice
+2015-04-20 17:23:51,173 ERROR [Worker-0] - System.err - 17:23:51,173 I: (ErlangCore.java:64) : Starting CORE Thread[Worker-0,5,main]
+2015-04-20 17:23:51,180 ERROR [Worker-0] - System.err - 17:23:51,180 I: (ErlangCore.java:79) : *** starting Erlide v0.29.11.201502161407 (core=0.24.12.201502161407) (model api=0.24.11.201502161407) *** (UTF-8) ui
+2015-04-20 17:23:51,190 ERROR [Worker-0] - System.err - 17:23:51,185 I: (ErlangCore.java:86) : Started CORE
+2015-04-20 17:23:51,190 ERROR [Worker-0] - System.err - 17:23:51,190 F: (ErlangPlugin.java:88) : Core started
+2015-04-20 17:23:52,426 ERROR [Worker-0] - System.err - 17:23:52,426 F: (ErlangHostnameRetriever.java:40) : Test long hostname: null
+2015-04-20 17:23:52,426 ERROR [Worker-0] - System.err - 17:23:52,426 W: (ErlangHostnameRetriever.java:46) : Can't use null as long name
+2015-04-20 17:23:53,495 ERROR [Worker-0] - System.err - 17:23:53,495 F: (ErlangHostnameRetriever.java:40) : Test long hostname: guptanitin-Latitude-E5440
+2015-04-20 17:23:54,545 ERROR [Worker-0] - System.err - 17:23:54,545 W: (ErlangHostnameRetriever.java:46) : Can't use guptanitin-Latitude-E5440 as long name
+2015-04-20 17:23:54,912 ERROR [Worker-0] - System.err - 17:23:54,911 F: (ErlangHostnameRetriever.java:40) : Test short hostname: guptanitin-Latitude-E5440
+2015-04-20 17:23:54,946 ERROR [Worker-0] - System.err - 17:23:54,946 F: (HostnameUtils.java:74) : Detected:: guptanitin-Latitude-E5440 && null
+2015-04-20 17:23:54,971 ERROR [Worker-0] - System.err - 17:23:54,971 F: (BackendActivator.java:25) : Backend plugin started
+2015-04-20 17:23:54,979 ERROR [Worker-0] - System.err - 17:23:54,979 I: (ErlideUIPlugin.java:130) : Starting UI Thread[Worker-0,5,main]
+2015-04-20 17:23:54,982 ERROR [Worker-0] - System.err - 17:23:54,982 F: (ModelActivator.java:19) : Starting Erlang model api
+2015-04-20 17:23:55,008 ERROR [Worker-0] - System.err - 17:23:55,008 F: (BackendFactory.java:42) : Create ide backend R16B03
+2015-04-20 17:23:55,009 ERROR [Worker-0] - System.err - 17:23:55,008 F: (BackendFactory.java:56) : Create backend 3a443_guptanitin_ad783b_erlide
+2015-04-20 17:23:55,130 ERROR [Worker-0] - System.err - 17:23:55,130 F: (OtpNodeProxy.java:302) : Runtime 3a443_guptanitin_ad783b_erlide@guptanitin-Latitude-E5440 starting
+2015-04-20 17:23:55,141 ERROR [OtpNodeProxy 3a443_guptanitin_ad783b_erlide@guptanitin-Latitude-E5440] - System.err - 17:23:55,140 F: (OtpNodeProxy.java:420) : START node :> [/usr/lib/erlang/bin/erl, -sname, 3a443_guptanitin_ad783b_erlide@guptanitin-Latitude-E5440, -setcookie, erlide] *** /home/guptanitin/workspace_p/practice
+2015-04-20 17:23:55,172 ERROR [OtpNodeProxy 3a443_guptanitin_ad783b_erlide@guptanitin-Latitude-E5440] - System.err - 17:23:55,172 F: (OtpNodeProxy.java:213) : 3a443_guptanitin_ad783b_erlide@guptanitin-Latitude-E5440: waiting connection to peer...
+2015-04-20 17:23:55,578 ERROR [OtpNodeProxy 3a443_guptanitin_ad783b_erlide@guptanitin-Latitude-E5440] - System.err - 17:23:55,578 F: (OtpNodeProxy.java:220) : connected!
+2015-04-20 17:23:55,770 ERROR [OtpNodeProxy 3a443_guptanitin_ad783b_erlide@guptanitin-Latitude-E5440] - System.err - 17:23:55,769 F: (OtpNodeProxy.java:307) : Runtime 3a443_guptanitin_ad783b_erlide@guptanitin-Latitude-E5440 running
+2015-04-20 17:23:55,772 ERROR [OtpNodeProxy 3a443_guptanitin_ad783b_erlide@guptanitin-Latitude-E5440] - System.err - 17:23:55,772 F: (LogEventHandler.java:27) : info: {"Monitoring java node",'jerlide_6ad78dd@guptanitin-Latitude-E5440'}
+2015-04-20 17:23:55,773 ERROR [OtpNodeProxy 3a443_guptanitin_ad783b_erlide@guptanitin-Latitude-E5440] - System.err - 17:23:55,773 F: (LogEventHandler.java:27) : info: {"Start monitor process: ",10000000,50000000}
+2015-04-20 17:23:56,205 ERROR [Worker-0] - System.err - 17:23:56,205 F: (ModelActivator.java:30) : Started model api
+2015-04-20 17:23:56,218 ERROR [Worker-0] - System.err - 17:23:56,218 I: (ErlideUIPlugin.java:152) : Started UI

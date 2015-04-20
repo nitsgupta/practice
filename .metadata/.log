@@ -1,0 +1,13 @@
+!SESSION 2015-04-20 17:23:34.132 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.8.0_45
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.erlide.core 1 0 2015-04-20 17:23:51.153
+!MESSAGE Erlide log is in /home/guptanitin/workspace_p/practice
+
+!ENTRY org.erlide.core 1 0 2015-04-20 17:23:51.180
+!MESSAGE *** starting Erlide v0.29.11.201502161407 (core=0.24.12.201502161407) (model api=0.24.11.201502161407) *** (UTF-8) ui
